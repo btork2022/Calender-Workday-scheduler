@@ -35,7 +35,7 @@ https://github.com/btork2022/Calender-Workday-scheduler
 ## Credits
 
 - www.fontawesome.com 
-  (for download-button script "<script src="https://kit.fontawesome.com/74b6bb5be5.js" crossorigin="anonymous"></script>")
+  (for save-button script "<script src="https://kit.fontawesome.com/74b6bb5be5.js" crossorigin="anonymous"></script>")
 - Drew Hoang for guidance
 
 
