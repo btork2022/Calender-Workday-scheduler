@@ -32,8 +32,8 @@
             if(hour < currentHour) {
                 $(".time-block")[i].classList.add("past")
             }  else if(hour === currentHour){
-                $(".time-block")[i].classList.add("past")
-                $(".time-block")[i].classList.remove("present")
+                $(".time-block")[i].classList.remove("past")
+                $(".time-block")[i].classList.add("present")
             }  else {
                 $(".time-block")[i].classList.remove("past")
                 $(".time-block")[i].classList.remove("present")
